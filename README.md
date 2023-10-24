@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m computer vision enthusiastic<br>🌱 You can follow the world of Computer Vision, TensorFlow, Keras, and Python with my tutorials <br>💬 I am focused on convolutional neural networks ,pre-trained models for object classifications object detections, and objects segmentation <br>👯 You can collaborate me using the social links below<br>
+🔭 I’m a computer vision enthusiastic<br>🌱 You can follow the world of Computer Vision, TensorFlow, Keras, and Python with my tutorials <br>💬 I am focused on convolutional neural networks ,pre-trained models for object classifications object detections, and objects segmentation <br>👯 You can collaborate me using the social links below<br>
 
 
 ## 🌐 Socials:
